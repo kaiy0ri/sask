@@ -1,0 +1,6 @@
+[extend]
+useDefault = true
+
+[allowlist]
+description = "Intentionally vulnerable fixture with fake credentials"
+paths = ['''tests/fixtures/''']
